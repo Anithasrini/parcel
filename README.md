@@ -9,7 +9,7 @@ Shipping Calculator
 ## How To Use
 
 * Make a directory for your project and initialize a git repository.
-* Pull this file structure template from GitHub: `git pull https://github.com/JeffreyRuder/parcel.git`
+* Pull this file structure template from GitHub: `git pull https://github.com/AnithaSrini/parcel.git`
 
 OR:
 
